@@ -28,4 +28,4 @@ prog = ['skype', 'word', 'exel', 'java', 'mail', 'python', 'ws 2016']
 iter = cycle (prog)
 
 for i in range(7):
-    print (next(iter))
+    print (next(iter) )

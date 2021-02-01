@@ -13,4 +13,4 @@ composition = reduce (lambda x, y: x * y, range (100, 1001))
 
 print (f'\nСписок четных чисел от 100 до 1000:\n{new_list}')
 
-print (f'\n\nПроизведение всех четных элементов спикска:\n{composition}')
+print (f'\n\nПроизведение всех четных элементов спикска:\n{composition}' )

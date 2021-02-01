@@ -12,4 +12,4 @@ def salary ():
     pay = (output_in_hours * rate_per_hour) + bonus
     return pay
 
-print (f'Заработная плата сотрудника составляет: {salary()} Р')
+print (f'Заработная плата сотрудника составляет: {salary()} Р' )

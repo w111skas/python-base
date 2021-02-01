@@ -8,4 +8,4 @@
 
 output_in_hours = float (input ('Введите выработку сотрудника в часах: '))
 rate_per_hour = float (input ('Введите ставку сотрудника в час: '))
-bonus = float (input ('Ввдеите премию сотрудника: '))
+bonus = float (input ('Ввдеите премию сотрудника: ') )
