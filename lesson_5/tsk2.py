@@ -9,6 +9,8 @@ with open ('/home/administrator/PycharmProjects/python-base//lesson_5/tsk2.txt')
     lines = 0
     for line in file:
         lines = lines + 1
+        words = len (line.split ())
+        print (words)
 
 print ('Количество строк в текстовом файле: ', lines)
-#print ('Количество слов в каждой строке: ', )
+print ('Количество слов в каждой строке: ', words)
